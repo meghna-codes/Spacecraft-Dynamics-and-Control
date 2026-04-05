@@ -23,20 +23,6 @@ The codebase supports research-oriented experimentation and is suitable for appl
 
 ---
 
-## Repository Structure
-
-```
-├── data/                # Reference trajectories and orbit datasets
-├── src/                 # Core simulation and dynamics code
-├── control/             # Control law implementations (TPA, LQR variants)
-├── plots/               # Visualization scripts and outputs
-├── utils/               # Helper functions and numerical tools
-├── results/             # Simulation outputs and analysis
-└── README.md
-```
-
----
-
 ## Getting Started
 
 ### Prerequisites
