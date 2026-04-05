@@ -35,13 +35,13 @@ The codebase supports research-oriented experimentation and is suitable for appl
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/meghna-codes/Spacecraft-Dynamics-and-Control.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd your-repo-name
+   cd Spacecraft-Dynamics-and-Control
    ```
 
 3. Run main scripts (example in MATLAB):
@@ -93,15 +93,6 @@ Comparative studies between TPA, TI-LQR, and TV-LQR are provided for station-kee
 * Halo orbit maintenance
 * Autonomous spacecraft navigation
 * Optimal control in nonlinear dynamical systems
-
----
-
-## Future Work
-
-* Robust and adaptive control under uncertainty
-* Model predictive control (MPC)
-* Machine learning-assisted control policies
-* Extension to multi-body and perturbed environments
 
 ---
 
